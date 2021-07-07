@@ -14,7 +14,7 @@ I made this system to use as a AI brain or screen message timer.
      has been reached. if the returned value is false,
      it is because the delay has not reached the specified time.
      
-     # inside your loop code, made put this block
+     # inside your loop code, put this block
      
         // # Here an exemplo how to call delay
         // # Each 5 seconds, a message will show on display
